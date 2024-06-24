@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560364901 source:c:\users\jabri\onedrive\desktop\hw4\hw4q1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
