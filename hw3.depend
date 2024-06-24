@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558622632 source:c:\users\jabri\onedrive\desktop\hw3\hw3q1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1558622686 source:c:\users\jabri\onedrive\desktop\technion\computer science spring\hw3\hw3q1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
